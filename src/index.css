@@ -2,3 +2,10 @@
 .active{
    background: rgba(255, 255, 255, 0.2);
 }
+.btn{
+   background: rgba(255, 255, 255, 0.2);
+
+}
+div{
+   color: white;
+}

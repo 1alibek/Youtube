@@ -16,7 +16,7 @@ import { IoMenu } from "react-icons/io5";
 import { NavLink } from "react-router-dom";
 const Sidebar = () => {
   return (
-    <div className="bg-[#212121] w-[220px]">
+    <div className="bg-[#212121] w-[19  0px]">
       <div className="flex items-center gap-1 px-4 py-2">
         <IoMenu className="text-2xl text-white" />
         <img src={logo} alt="" />

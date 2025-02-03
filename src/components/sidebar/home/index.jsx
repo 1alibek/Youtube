@@ -1,8 +1,9 @@
 import React from 'react'
+import Products from './products'
 
 const Home = () => {
   return (
-    <div>Home</div>
+    <div className='p-2'><Products/></div>
   )
 }
 
